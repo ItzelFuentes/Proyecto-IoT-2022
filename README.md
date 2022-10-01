@@ -25,7 +25,8 @@ Parrafo con el objetivo general
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
-|    |            |             |        |          |             |
+|    |            |             | <html>![image](https://user-images.githubusercontent.com/106613946/193392608-d17fd89d-62f9-4ff6-987d-c2198f0e4d1e.png)
+</html>       |          |             |
 |    |            |             |        |          |             |
 |    |            |             |        |          |             |
 
